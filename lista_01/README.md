@@ -1,14 +1,14 @@
 # psc_01
 
-Lista 01
+***Lista 01***
 
 Instruções
 
-Os exercícios desta lista deverão ser entergeus implementados em Java e Python
+**Os exercícios desta lista deverão ser entergeus implementados em Java e Python**
 
 Os exercícios deverão ser postados em um repositório GitHub do aluno e o endereço adiciona nos comentários desta entrega.
 
-Exercícios
+**Exercícios**
 
 1. Implemente um programa que solicite 10 números inteiros informados pelo usuário. Exiba a soma.
 2. Implemente um programa que solicite 5 números do tipo ponto flutuante ao usuário. Exiba o maior número informado.
